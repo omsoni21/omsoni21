@@ -105,17 +105,6 @@ High School Ghuthiya Pesara, Jharkhand — **78%**
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omsoni21&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsoni21&theme=tokyonight" />
-</p>
-x
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omsoni21&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
