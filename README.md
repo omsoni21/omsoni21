@@ -73,13 +73,13 @@ Experienced in modular frontend development and collaborative agile environments
 
 **B.Tech – Computer Science & Engineering**  
 Sagar Group of Institutions (SISTec GN), Bhopal  
-📅 2022 – 2026 | **CGPA: 6.79**
+📅 2022 – 2026 | 
 
 **Higher Secondary (Science)**  
-Ghaghra Inter Science College, Jharkhand — **79%**
+Ghaghra Inter Science College, Jharkhand 
 
 **10th Board**  
-High School Ghuthiya Pesara, Jharkhand — **78%**
+High School Ghuthiya Pesara, Jharkhand 
 
 ---
 
