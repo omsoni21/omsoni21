@@ -1,5 +1,81 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I am a **Frontend Developer** with hands-on experience in **React.js, Next.js, TypeScript, and Tailwind CSS**. I specialize in building **responsive, user-focused web applications** with strong attention to **UI/UX, accessibility, and performance optimization**.<br><br>### 🛠️ What I’m working on<br>- Developing modern frontend applications using **React & Next.js**<br>- Creating reusable and scalable UI components with **Tailwind CSS**<br>- Improving performance, responsiveness, and code quality<br><br>### 🤝 Open to collaboration<br>- Frontend and full-stack web projects  <br>- **React / Next.js** based applications  <br>- Open-source contributions<br><br>### 🌱 Currently learning<br>- **TypeScript** for scalable, type-safe development  <br>- **Next.js (SSR & App Router)**  <br>- API integration and frontend architecture best practices<br><br>### 💬 Ask me about<br>- React.js, Next.js, Tailwind CSS  <br>- Responsive design and UI/UX best practices  <br>- Frontend project setup and optimization<br>
+<h1 align="center">Hi 👋, I'm Om Soni</h1>
+<h3 align="center">Frontend Developer | Passionate about Emerging Technologies</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omsoni21&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a dedicated **Frontend Developer** with a strong passion for learning and implementing modern web technologies.  
+I enjoy building **responsive, user-friendly, and performance-optimized** web applications.
+
+> *"Make it work, make it right, make it fast."*
+
+- 🌱 Currently learning **Node.js & Backend Development**
+- 👯 Interested in **Frontend & Full-Stack collaboration**
+- ⚡ Always exploring **new technologies**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/om-soni-57a424256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:somofficial9661@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/omsoni21">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,mongodb,git,github" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🍽️ Restaurant Website
+- Responsive web app built with **React, Tailwind CSS & Node.js**
+
+### 💼 Job Portal
+- Full-stack job application platform using **React, Node.js & MySQL**
+
+### 📊 Alumni Association Platform
+- Alumni networking platform with authentication & job postings  
+- 🔗 Live: https://alumni-ses.netlify.app/
+
+---
+
+## 🎓 Education
+
+**B.Tech – Computer Science Engineering**  
+Sagar Group of Institutions (SISTec GN), Bhopal  
+📅 2022 – 2026 | **CGPA: 6.79**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omsoni21&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omsoni21&theme=tokyonight" />
+</p>
+
 
 
 ## 🌐 Socials:
