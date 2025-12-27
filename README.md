@@ -15,18 +15,7 @@ Experienced in modular frontend development and collaborative agile environments
 
 ---
 
-## 💼 Experience
 
-### 🚀 Frontend Developer Intern  
-**Tech Helper & Technology**, Bhopal  
-📅 *Apr 2024 – Sep 2024*
-
-- Developed and maintained **responsive web interfaces** using HTML, CSS, JavaScript, and React.js  
-- Implemented **pixel-perfect UI** with Tailwind CSS & Bootstrap  
-- Improved **website performance** and cross-browser compatibility  
-- Used **Git & GitHub** for version control and agile collaboration  
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -46,42 +35,11 @@ Experienced in modular frontend development and collaborative agile environments
 
 ---
 
-## 📌 Projects
 
-### 🚆 Railspace Lease Management System  
-**Tech:** Next.js, React, TypeScript, Tailwind CSS  
-📅 *Sep 2025 – Nov 2025*
 
-- Digital platform for managing **railway property leases**  
-- Features: application submission, contract tracking & payments  
-- Used **Next.js SSR** and modular UI for scalability  
 
----
 
-### 🎓 Alumni Association Platform  
-**Tech:** HTML, CSS, JavaScript, MongoDB  
-📅 *Mar 2025 – May 2025*
 
-- Alumni networking & collaboration platform  
-- Authentication, profile management & job postings  
-- MongoDB integration for persistent storage  
-- 🔗 Live: https://alumni-ses.netlify.app/
-
----
-
-## 🎓 Education
-
-**B.Tech – Computer Science & Engineering**  
-Sagar Group of Institutions (SISTec GN), Bhopal  
-📅 2022 – 2026 | 
-
-**Higher Secondary (Science)**  
-Ghaghra Inter Science College, Jharkhand 
-
-**10th Board**  
-High School Ghuthiya Pesara, Jharkhand 
-
----
 
 ## 📜 Trainings & Workshops
 
