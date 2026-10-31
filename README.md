@@ -1,6 +1,6 @@
 # Hi 👋, I'm Om Soni
 
-<h3 align="center">🚀 Aspiring Android Developer | Kotlin • Jetpack Compose | Frontend Developer</h3>
+<h3 align="center">📱 Aspiring Android Developer | Kotlin • Jetpack Compose | React • Next.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omsoni21&label=Profile%20Views&color=3DDC84&style=flat" />
@@ -10,27 +10,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science graduate and an aspiring software developer with an interest in building modern and user-friendly applications.
+I'm a Computer Science graduate and an aspiring software developer passionate about building modern and user-friendly applications.
 
-My primary focus is **Native Android Development**, where I'm learning and building applications using Kotlin and Jetpack Compose. I also have a foundation in frontend web development with React.js and Next.js.
+My primary focus is **Native Android Development**, where I'm learning Kotlin and Jetpack Compose. I also have a foundation in frontend web development using React.js and Next.js.
 
 - 🎓 B.Tech Graduate in Computer Science & Engineering.
-- 📱 Currently focusing on Native Android Development.
+- 📱 Focused on Native Android Development.
 - 💻 Learning Kotlin and Jetpack Compose.
-- 🏗️ Exploring MVVM Architecture and modern Android development practices.
+- 🏗️ Exploring MVVM Architecture and modern Android development.
 - 🌐 Familiar with React.js, Next.js, JavaScript, and TypeScript.
-- 🚀 Interested in building real-world projects and improving my development skills.
-- 🌱 Always learning and exploring new technologies.
+- 🚀 Interested in building scalable and user-friendly applications.
+- 🌱 Always learning and improving my development skills.
 
 ---
 
-## 📱 Android Development (Primary Focus)
+## 📱 Android Development
 
 **Language**
 <br/>
 `Kotlin`
 
-**UI Development**
+**UI Framework**
 <br/>
 `Jetpack Compose` `Material Design 3`
 
@@ -56,7 +56,7 @@ My primary focus is **Native Android Development**, where I'm learning and build
 
 ---
 
-## 🌐 Frontend Development (Additional Skills)
+## 🌐 Frontend Development
 
 **Languages**
 <br/>
@@ -73,28 +73,6 @@ My primary focus is **Native Android Development**, where I'm learning and build
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
-
----
-
-## 🚀 Projects
-
-I enjoy learning by building projects and applying my technical knowledge to practical problems.
-
-### 📱 Android Development
-Currently building projects to strengthen my knowledge of:
-- Kotlin and Jetpack Compose.
-- Material Design 3.
-- MVVM Architecture.
-- Room Database.
-- Coroutines and StateFlow.
-
-### 🌐 Web Development
-
-- **RailSpace:** Frontend development using Next.js, React, TypeScript, and Tailwind CSS.
-- **Alumni Association Platform:** React-based frontend with authentication and MongoDB integration.
-- **Mystic Rides India:** Responsive website built using HTML, CSS, and JavaScript.
-
-🔗 Explore my projects: [GitHub Repositories](https://github.com/omsoni21?tab=repositories)
 
 ---
 
@@ -142,5 +120,5 @@ Currently building projects to strengthen my knowledge of:
 </p>
 
 <p align="center">
-  ⭐ <b>Learning Every Day | Building Projects | Growing as a Developer</b> ⭐
+  ⭐ <b>Learning Every Day | Building Skills | Growing as a Developer</b> ⭐
 </p>
